@@ -1,2 +1,1 @@
 print("CLOUD")
-123
