@@ -1,0 +1,2 @@
+print("CLOUD")
+123
